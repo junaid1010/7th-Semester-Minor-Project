@@ -1,2 +1,1 @@
-Jump Game in Python
-This is the 7th semester minor project Repo (which includes Code & PPT)
+Jump Game in Python, 7th semester minor project Repo (which includes Code & PPT)
